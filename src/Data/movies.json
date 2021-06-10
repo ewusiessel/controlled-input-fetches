@@ -1,0 +1,136 @@
+[
+  {
+    "_id": "60b0dde4dc14580015e4aed9",
+    "name": "Blow Dry",
+    "description": "Shelley operates a small salon with her partner. When the British Hairdressing Championships are announced, Shelley asks her ex-husband and son to join her.",
+    "category": "romance",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/27181d92ff4a9ef5031ab6c3067ff8e02f006f3d49c2d489018bab4197e9dc3f._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:11:16.218Z",
+    "updatedAt": "2021-05-28T12:11:16.218Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b0df14dc14580015e4aedd",
+    "name": "Bridesmaids",
+    "description": "Annie, a jobless chef, is asked by her best friend, Lillian, to be her maid of honour. Issues evolve when she ruins the wedding events in a rage due to her conflicts with one of the bridesmaids.",
+    "category": "romance",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/nbcu-Bridesmaids-Full-Image_GalleryCover-en-GB-1486479242949._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:16:20.942Z",
+    "updatedAt": "2021-05-28T12:16:20.942Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b0df8cdc14580015e4aee4",
+    "name": "The Wedding Singer",
+    "description": "Robbie, a wedding singer, meets Julia, a waitress, at a reception and the two hit it off.He soon learns that she is engaged to another man, who treats her like garbage, and must stop their wedding.",
+    "category": "romance",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/29de37114f0fffce2dc3396f4120f2027bc3506ffdad9b4731e923bd7186d936._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:18:20.899Z",
+    "updatedAt": "2021-05-28T12:18:20.899Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b0e029dc14580015e4aee6",
+    "name": "The Bounty Hunter",
+    "description": "Milo must retrieve his bail-jumping ex-wife, Nicole. The job gets tougher than he anticipated when Nicole escapes while chasing a lead and they both end up on the run for their lives.",
+    "category": "romance",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d306e09d60b2ee0386319921cff5eb3c0d8a26951e2aa2bc0f5518390872a6af._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:20:57.106Z",
+    "updatedAt": "2021-05-28T12:20:57.106Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b0e096dc14580015e4aee9",
+    "name": "Miss You Already",
+    "description": "A woman undergoes treatment to battle breast cancer while her best friend (Drew Barrymore) tries to get pregnant",
+    "category": "romance",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/34da7967ce909c803c554eaf32cf46c284c54dd3a856cfd6c1e718d971b43b12._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:22:46.132Z",
+    "updatedAt": "2021-05-28T12:22:46.132Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b102d7dc14580015e4b02a",
+    "name": "Fifty Shades of Grey",
+    "description": "Fifty Shades is a British-American film trilogy series that consists of three erotic romantic drama films, based on the Fifty Shades trilogy by English author E. L. James. ",
+    "category": "romance",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/nbcu-02434_UHD-Full-Image_GalleryCover-en-GB-1555577148856._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T14:48:55.128Z",
+    "updatedAt": "2021-05-28T14:48:55.128Z",
+    "__v": 0
+  },
+
+  {
+    "_id": "60b0d7acdc14580015e4ae7f",
+    "name": "Escape Plan II",
+    "description": "A security expert named Ray Breslin uses his skills to test out the reliability of maximum security prisons.",
+    "category": "action",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/11746c3292042acf69c1f5a2dd9d4cc69116c96e51fd896b931b9ee60ef6be9b._UR1920,1080_RI_SX329_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T11:44:44.510Z",
+    "updatedAt": "2021-05-28T11:44:44.510Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b0e130dc14580015e4aeea",
+    "name": "London Has Fallen",
+    "description": "Mike, a Secret Service agent, must find a way to escape with his team when Barkawi, a terrorist, attacks all the world leaders attending the funeral of the British Prime Minister, James Wilson.",
+    "category": "action",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/lionsgate-LGI95336-Full-Image_GalleryCover-en-GB-1553687277811._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:25:20.537Z",
+    "updatedAt": "2021-05-28T12:25:20.537Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b0e1a2dc14580015e4aeef",
+    "name": "Mile 22",
+    "description": "James Silva, an American intelligence officer, must ensure that an informant in possession of sensitive information can escape the country safely.",
+    "category": "action",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/42c0449b3a95256071a9a50d1d2d7ff727015e09ffd39fcb7ba6caf9dc7c3577._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T12:27:14.276Z",
+    "updatedAt": "2021-05-28T12:27:14.276Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b11d9adc14580015e4b093",
+    "name": "The DoorMan",
+    "description": "A former soldier must save her niece and nephew from armed thieves planning to steal priceless art from a building in New York City.",
+    "category": "action",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/1cc22e6570d38ed46367f0a741ea775c2d1e2b10c8f5144b37b633f9ec490daa._UR1920,1080_RI_SX356_FMwebp_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T16:43:06.198Z",
+    "updatedAt": "2021-05-28T16:43:06.198Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b13937dc14580015e4b098",
+    "name": "Takers",
+    "description": "A group of successful bank robbers plan their biggest heist ever. Now, they must face a Los Angeles detective who will do anything to see them behind bars.",
+    "category": "action",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/35f1b3fb60565da399193728b7c674222d6de36d52b09b2f22fa79ef88f31492._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T18:40:55.162Z",
+    "updatedAt": "2021-05-28T18:40:55.162Z",
+    "__v": 0
+  },
+  {
+    "_id": "60b139afdc14580015e4b099",
+    "name": "1917",
+    "description": "During World War I, two British soldiers -- Lance Cpl. Schofield and Lance Cpl. Blake -- receive seemingly impossible orders. In a race against time, they must cross over into enemy territory to deliver a message that could potentially save 1,600 of their fellow comrades -- including Blake's own brother.",
+    "category": "action",
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d7d54474ae0a3dfb169a05d7e62da568d3a3b2e45ec2bcb39f9007ed004096a1._UR1920,1080_RI_UX400_UY225_.jpg",
+    "userId": "6080af15b1f0fb0015d9184e",
+    "createdAt": "2021-05-28T18:42:55.029Z",
+    "updatedAt": "2021-05-28T18:42:55.029Z",
+    "__v": 0
+  }
+
+]
